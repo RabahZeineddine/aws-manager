@@ -1,0 +1,6 @@
+[submodule "aws-manager-app"]
+	path = aws-manager-app
+	url = https://github.com/RabahZeineddine/aws-manager-app.git
+[submodule "aws-manager-bff"]
+	path = aws-manager-bff
+	url = https://github.com/RabahZeineddine/aws-manager-bff.git
